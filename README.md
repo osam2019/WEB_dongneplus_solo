@@ -1,7 +1,7 @@
 
 ## 동네플러스
 ![enter image description here](https://lh3.googleusercontent.com/XVz5zp6ZlEkbmeeY7NkxfwmuDN_ns1oxiYgXB8Se-q98ugiRMdupvvQEhhr6I1weG3_s9mLrf34)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)]
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 **'동네플러스'** 프로젝트는 지역 생활 정보를 보여주는 어플리케이션이다.
 
