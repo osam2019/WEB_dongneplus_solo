@@ -98,7 +98,7 @@
         background: #fff;
         position: fixed;
         right: 100px;
-        top: 700px;
+        bottom: 40px;
         z-index: 2000;
         width: 200px;
         height: 200px;
